@@ -1,0 +1,50 @@
+{
+  "products": [
+    {
+      "title": " Xiaomi Poco X6 Pro",
+      "price": 8490000,
+      "discount": 9500000,
+      "quantity": 33,
+      "category": "Điện Thoại",
+      "description": "Điện thoại Xiaomi Poco X6 Pro được trang bị con chip Dimensity 8300 Ultra 8 nhân, tiến trình 4nm, tích hợp với GPU Mali-G615 cùng RAM 8GB, bộ nhớ trong 256GB. Máy sở hữu 3 camera sau với camera chính 64MP và 1 camera selfie 16MP. Ngoài ra máy X6 Pro được trang bị màn hình AMOLED 6.67 inch, độ phân giải 1220 x 2712 pixels cùng tần số quét 120Hz. ",
+      "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/i/dien-thoai-oppo-reno-11-f-2.png",
+      "image2": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/i/dien-thoai-oppo-reno-11-f-2.png",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "email": "chang16082@gmail.com",
+      "password": "$2a$10$yf8Ef0Vi2DXV5IlXakuHoOLDZ6M5SY47O5GMuz.o.jqS30EPxLwni",
+      "username": "nguyendztw",
+      "id": 1
+    },
+    {
+      "email": "nguyen@gmail.com",
+      "password": "$2a$10$FDMtMh2TYKm6KDMMma0WpO2HgIyiVTFs0NOZFdRMOYM..zDRD/ibu",
+      "username": "nguyen123",
+      "id": 2
+    },
+    {
+      "email": "datbui@gmail.com",
+      "password": "$2a$10$7aC4tlE1ZBdJGC8pb6o9.e8H.T6pBFgJkTUO2cMrMecGA8LiOycKm",
+      "username": "datbui",
+      "confirmPassword": "123456",
+      "id": 3
+    },
+    {
+      "email": "hi@gmail.com",
+      "password": "$2a$10$Mt4Gr0oChI./5ZKxcVqP3etAWxieMGysKnDavjaC4pqNntnXNTttC",
+      "username": "hihi",
+      "confirmPassword": "123456",
+      "id": 4
+    },
+    {
+      "email": "phamdat@gmail.com",
+      "password": "$2a$10$bEtlD4cD18.kSKxYJiIhtOnksoYusVhzrKV3VQ5eTIwPtKd7ArsI6",
+      "username": "datpham",
+      "confirmPassword": "123456",
+      "id": 5
+    }
+  ]
+}
